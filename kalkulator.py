@@ -11,3 +11,5 @@ get_info()
 a = int(input())
 b = int(input())
 print(dodaj(a,b))
+
+print('koniec programu')
