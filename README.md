@@ -11,4 +11,5 @@ To jest kalkulator
 >>>>>>> parent of e9fac4a... Zmiana na masterze
 =======
 To jest kalkulator
->>>>>>> parent of e9fac4a... Zmiana na masterze
+
+- NOWY COMMIT - galaz testowa 2
