@@ -1,1 +1,1 @@
-To jest kalkulator
+To jest kalkulator - instraukcja obsługi
